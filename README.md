@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome To Dash OS CORE GITHUB PAGE
 
-<!--
-**DashOS/dashos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## How to Install Dash OS CORE
 
-Here are some ideas to get you started:
+First of all you should make sure that did you have some information of Operating Sysstem. Dash OS can be installed as you install Linux Mint
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to Dual-Boot
+
+As you can dual boot windows with linux it will also be same.
+
+## This guide is not completed.
+
+Guide will be published later on.
+So please don't follow above if you knows nothing.
