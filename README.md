@@ -1,6 +1,6 @@
 ### Welcome To Dash OS GITHUB PAGE
 
-#CONTENTS
+##CONTENTS
 1.Installation
 2.Dual Boot
 3.Convert existing Linux System
